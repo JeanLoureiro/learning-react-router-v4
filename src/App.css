@@ -26,3 +26,12 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display:inline-flex;
+    margin: 15px;
+}
